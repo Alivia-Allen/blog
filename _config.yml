@@ -17,7 +17,7 @@ title: Alivia's Blog
 email: AllenAA@Hendrix.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is my awsome blog that I created for my Computer Science class!
-baseurl "/blog"
+baseurl: "/blog"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  Alivia-Allen
