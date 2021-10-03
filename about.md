@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My name is Alivia Allen 
+I am a sophomore at Hendrix College who: 
+1. loves sports
+2. enjoys watching tv shows and movies
+3. loves listening to music. 
 
 
-[jekyll-organization]: https://github.com/jekyll
+I'm planning on double majoring in **Computer Science and Spanish**, and hope to have a good year at Hendrix this year. I am apart of *many* different clubs at school and a member of the Track and Field team. Thank you for visiting my blog.
+
+My favorite song at the moment is: [Essence by WizKid](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm?si=6a59a68dbaf047b7)
