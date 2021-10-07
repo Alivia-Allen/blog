@@ -12,5 +12,3 @@ I am a sophomore at Hendrix College who:
 
 
 I'm planning on double majoring in **Computer Science and Spanish**, and hope to have a good year at Hendrix this year. I am apart of *many* different clubs at school and a member of the Track and Field team. Thank you for visiting my blog.
-
-My favorite song at the moment is: [Essence by WizKid](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm?si=6a59a68dbaf047b7)
