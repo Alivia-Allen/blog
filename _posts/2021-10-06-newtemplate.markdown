@@ -12,4 +12,4 @@ This lab was difficult for me because I was stuck on one step for a long time. I
 
 I learned about jekyll minima and how it worked and I learned about editing/overriding a jekyll theme from this [website](https://jekyllrb.com/docs/themes/#overriding-theme-defaults). Jekyll and Markdown are two totally new things for me and it has been fun to learn about them. It was cool to learn how to create a blog and edit it to my liking. As of right now I think everything makes since to me and I'm looking forward to making more changes to this blog. 
 
-![thumb, no image found](thumb.jpg.peg)
+![blog](https://user-images.githubusercontent.com/89548485/136477098-4b052aff-6ac3-470c-a93f-cc0a76e202a2.jpg)
