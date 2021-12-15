@@ -1,1 +1,15 @@
+---
+layout: post
+title:  "Lab 9"
+author: "Alivia Allen"
+---
+### What were the easiest parts of the tutorial? What were confusing parts of the tutorial?
+The easiest part of the tutorial was getting started. The confusing parts of the tutorial were continuing.
 
+### How did your team divide up the work?
+Our plan was to complete the tutorial together, but we didn't get very far.
+
+### What communication skills did you build coordinating with your team on a common code base for this lab?
+We communicated through our groupchat and in person.
+
+### Provide a link to your remote project running on the Azure servers.
